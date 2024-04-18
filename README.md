@@ -1,5 +1,5 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# melon-logos
+melon-logos is a repository for Gitfile tutorial
+This is an original repository for the Gitfile tutoial on https://ernestmmjere@outlook.com
 
 This repository is built step by step in the tutorial.
